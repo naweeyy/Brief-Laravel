@@ -23,7 +23,7 @@
 <ul>
     <li>
         <a href="/">Accueil</a>
-        <a href="/projects">Projets</a>
+        <a href="/recettes">Recettes</a>
     </li>
 </ul>
 
